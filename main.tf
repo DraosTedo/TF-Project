@@ -1,6 +1,6 @@
 # Configure the AWS Provider
 provider "aws" {
-  region = "eu-north-2"
+  region = "eu-north-1"
 
 }
 
